@@ -1,0 +1,18 @@
+h2 {
+    color: coral;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    padding: 16px;
+    background-color: antiquewhite;
+}
+
+html {
+    background-color: bisque;
+}
